@@ -629,6 +629,25 @@
             "beta": false,
             "subtitle": "A CyPwn App",
             "versionDescription": "Latest Version"
+        },
+        {
+            "name": "Spotify++",
+            "bundleIdentifier": "cypwn.spotify.plusplus.6969696969696969",
+            "developerName": "Spotify x CyPwn",
+            "version": "v8.6.94",
+            "versionDate": "2022-08-04T00:00:00+00:00",
+            "downloadURL": "https://ipa.cypwn.xyz/ipas/Spotify++8.6.94.ipa",
+            "localizedDescription": "Spotify++8.6.94 but with extra dylibs",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Spotify++8.6.94.png",
+            "tintColor": "FFC300",
+            "size": 82489016,
+            "screenshotURLs": [
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png",
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png"
+            ],
+            "beta": false,
+            "subtitle": "A CyPwn App",
+            "versionDescription": "Latest Version"
         }
     ]
 }
