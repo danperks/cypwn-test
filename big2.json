@@ -670,6 +670,25 @@
             "versionDescription": "Latest Version"
         },
         {
+            "name": "Wallcraft Pro",
+            "bundleIdentifier": "com.wallpaperscraft.wallpapers.pro",
+            "developerName": "wallpapers pro x CyPwn",
+            "version": "v2.8",
+            "versionDate": "2022-08-06T00:00:00+00:00",
+            "downloadURL": "https://ipa.cypwn.xyz/ipas/Wallcraft%20Pro_2.8.ipa",
+            "localizedDescription": "Wallcraft Pro unlocked - Wallpapers for days",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Wallcraft%20Pro_2.8.png",
+            "tintColor": "FFC300",
+            "size": 15708604,
+            "screenshotURLs": [
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png",
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png"
+            ],
+            "beta": false,
+            "subtitle": "A CyPwn App",
+            "versionDescription": "Latest Version"
+        },
+        {
             "name": "Candy Crush Saga",
             "bundleIdentifier": "com.midasplayer.apps.candycrushsaga",
             "developerName": "candycrushsaga x CyPwn",
@@ -853,6 +872,26 @@
             "tintColor": "FFC300",
             "size": 122743883,
             "screenshotURLs": [
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png",
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png"
+            ],
+            "beta": false,
+            "subtitle": "A CyPwn App",
+            "versionDescription": "Latest Version"
+        },
+        {
+            "name": "Adobe Express",
+            "bundleIdentifier": "com.adobe.post",
+            "developerName": "Theo x CyPwn",
+            "version": "v11.3.0",
+            "versionDate": "2022-08-31T00:00:00+00:00",
+            "downloadURL": "https://ipa.cypwn.xyz/ipas/Adobe%20Express_11.3.0+Satella.ipa",
+            "localizedDescription": "Includes Satella Jailed to unlock all in-app purchases. Long press with 2 fingers anywhere on the screen to open Satella settings. Enable tweak and turn on Receipts. Click buy on any IAP, then hit cancel upon confirmation.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Adobe%20Express_11.3.0+Satella.png",
+            "tintColor": "FFC300",
+            "size": 75570837,
+            "screenshotURLs": [
+                "https://ipa.cypwn.xyz/serve/screenshots/Adobe%20Express_11.3.0+Satella/Adobe Express_11.3.0+Satella.ipa366.png",
                 "https://ipa.cypwn.xyz/serve/repo_placeholder.png",
                 "https://ipa.cypwn.xyz/serve/repo_placeholder.png"
             ],
