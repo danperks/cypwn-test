@@ -572,6 +572,63 @@
             "beta": false,
             "subtitle": "A CyPwn App",
             "versionDescription": "Latest Version"
+        },
+        {
+            "name": "PostBox",
+            "bundleIdentifier": "com.simplycode.PostBox",
+            "developerName": "PostBox x CyPwn",
+            "version": "v0.8",
+            "versionDate": "2022-07-31T00:00:00+00:00",
+            "downloadURL": "https://ipa.cypwn.xyz/ipas/PostBox-0.8-beta.ipa",
+            "localizedDescription": "An app for browsing tweak repos. Download and save debs on jailed devices to use for injecting and sideloading. This DOES NOT install tweaks on jailed devices, but you no longer need a jailbroken device to find and save deb files",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/PostBox-0.8-beta.png",
+            "tintColor": "FFC300",
+            "size": 7247937,
+            "screenshotURLs": [
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png",
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png"
+            ],
+            "beta": false,
+            "subtitle": "A CyPwn App",
+            "versionDescription": "Latest Version"
+        },
+        {
+            "name": "Duolingo",
+            "bundleIdentifier": "com.duolingo.DuolingoMobile",
+            "developerName": "DuolingoMobile x CyPwn",
+            "version": "v6.170.0",
+            "versionDate": "2022-07-31T00:00:00+00:00",
+            "downloadURL": "https://ipa.cypwn.xyz/ipas/Duolingo.ipa",
+            "localizedDescription": "Duolingo Pro unlocked",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Duolingo.png",
+            "tintColor": "FFC300",
+            "size": 73146586,
+            "screenshotURLs": [
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png",
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png"
+            ],
+            "beta": false,
+            "subtitle": "A CyPwn App",
+            "versionDescription": "Latest Version"
+        },
+        {
+            "name": "Enmity",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Discord x CyPwn",
+            "version": "v138.0",
+            "versionDate": "2022-08-02T00:00:00+00:00",
+            "downloadURL": "https://ipa.cypwn.xyz/ipas/Enmity_1.ipa",
+            "localizedDescription": "Discord 138.0 + Enmity 2.1.0 - Themes & Plugins for Discord",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Enmity.png",
+            "tintColor": "FFC300",
+            "size": 69601398,
+            "screenshotURLs": [
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png",
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png"
+            ],
+            "beta": false,
+            "subtitle": "A CyPwn App",
+            "versionDescription": "Latest Version"
         }
     ]
 }
