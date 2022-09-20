@@ -648,6 +648,26 @@
             "beta": false,
             "subtitle": "A CyPwn App",
             "versionDescription": "Latest Version"
+        },
+        {
+            "name": "Jaility",
+            "bundleIdentifier": "com.haxi0.Jaility",
+            "developerName": "Jaility x CyPwn",
+            "version": "v1.2",
+            "versionDate": "2022-08-04T00:00:00+00:00",
+            "downloadURL": "https://ipa.cypwn.xyz/ipas/Jaility.ipa",
+            "localizedDescription": "Respring your jailed iOS 15 device just like it was jailbroken. An example use case for this is when sideloaded apps wont appear on homescreen, simply respring with jaility to fix.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Jaility.png",
+            "tintColor": "FFC300",
+            "size": 1208861,
+            "screenshotURLs": [
+                "https://ipa.cypwn.xyz/serve/screenshots/Jaility/Jaility.ipa317.png",
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png",
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png"
+            ],
+            "beta": false,
+            "subtitle": "A CyPwn App",
+            "versionDescription": "Latest Version"
         }
     ]
 }
