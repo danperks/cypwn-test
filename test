@@ -3,8 +3,6 @@
   "identifier": "com.rileytestut.AltStore",
   "sourceURL": "https://cdn.altstore.io/file/altstore/apps.json",
   "apps": [
-    {},
-    {},
     {
       "name": "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
@@ -207,7 +205,4 @@
       "notify": false
     }
   ],
-  "userInfo": {
-    "patreonAccessToken": "uqoDoTxH8dY1ImE8tK76wxrzKk67gjyjBAcK8sD3RLU"
-  }
 }
