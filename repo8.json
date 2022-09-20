@@ -668,6 +668,25 @@
             "beta": false,
             "subtitle": "A CyPwn App",
             "versionDescription": "Latest Version"
+        },
+        {
+            "name": "Wallcraft Pro",
+            "bundleIdentifier": "com.wallpaperscraft.wallpapers.pro",
+            "developerName": "wallpapers pro x CyPwn",
+            "version": "v2.8",
+            "versionDate": "2022-08-06T00:00:00+00:00",
+            "downloadURL": "https://ipa.cypwn.xyz/ipas/Wallcraft Pro_2.8.ipa",
+            "localizedDescription": "Wallcraft Pro unlocked - Wallpapers for days",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Wallcraft Pro_2.8.png",
+            "tintColor": "FFC300",
+            "size": 15708604,
+            "screenshotURLs": [
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png",
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png"
+            ],
+            "beta": false,
+            "subtitle": "A CyPwn App",
+            "versionDescription": "Latest Version"
         }
     ]
 }
