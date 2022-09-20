@@ -670,16 +670,54 @@
             "versionDescription": "Latest Version"
         },
         {
-            "name": "Wallcraft Pro",
-            "bundleIdentifier": "com.wallpaperscraft.wallpapers.pro",
-            "developerName": "wallpapers pro x CyPwn",
-            "version": "v2.8",
-            "versionDate": "2022-08-06T00:00:00+00:00",
-            "downloadURL": "https://ipa.cypwn.xyz/ipas/Wallcraft Pro_2.8.ipa",
-            "localizedDescription": "Wallcraft Pro unlocked - Wallpapers for days",
-            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Wallcraft Pro_2.8.png",
+            "name": "Candy Crush Saga",
+            "bundleIdentifier": "com.midasplayer.apps.candycrushsaga",
+            "developerName": "candycrushsaga x CyPwn",
+            "version": "v1.226.0",
+            "versionDate": "2022-08-08T00:00:00+00:00",
+            "downloadURL": "https://ipa.cypwn.xyz/ipas/Candy_Crush.ipa",
+            "localizedDescription": "Candy Crush modded",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Candy_Crush.png",
             "tintColor": "FFC300",
-            "size": 15708604,
+            "size": 80070298,
+            "screenshotURLs": [
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png",
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png"
+            ],
+            "beta": false,
+            "subtitle": "A CyPwn App",
+            "versionDescription": "Latest Version"
+        },
+        {
+            "name": "Santander",
+            "bundleIdentifier": "com.serena.santanderfm",
+            "developerName": "Santander x CyPwn",
+            "version": "v1.0",
+            "versionDate": "2022-08-12T00:00:00+00:00",
+            "downloadURL": "https://ipa.cypwn.xyz/ipas/Santander.ipa",
+            "localizedDescription": "Modern File Manager for iOS 14, 15, & 16. Still in beta. Expect bugs and permission issues on newer iOS versions",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/Santander.png",
+            "tintColor": "FFC300",
+            "size": 1424588,
+            "screenshotURLs": [
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png",
+                "https://ipa.cypwn.xyz/serve/repo_placeholder.png"
+            ],
+            "beta": false,
+            "subtitle": "A CyPwn App",
+            "versionDescription": "Latest Version"
+        },
+        {
+            "name": "Hdo Play",
+            "bundleIdentifier": "com.hdoplay.apt",
+            "developerName": "HdoPlay x CyPwn",
+            "version": "v1.0.2",
+            "versionDate": "2022-08-15T00:00:00+00:00",
+            "downloadURL": "https://ipa.cypwn.xyz/ipas/HdoPlay-1-0-2-JKCrack.ipa",
+            "localizedDescription": "With this app you can:\r\n\r\nFull detailed information on shows and movies.\r\n\r\nAdd a library of your favorite.\r\n\r\nCreate many playlists as you want.",
+            "iconURL": "https://ipa.cypwn.xyz/serve/icons/HdoPlay-1-0-2-JKCrack.png",
+            "tintColor": "FFC300",
+            "size": 8559109,
             "screenshotURLs": [
                 "https://ipa.cypwn.xyz/serve/repo_placeholder.png",
                 "https://ipa.cypwn.xyz/serve/repo_placeholder.png"
